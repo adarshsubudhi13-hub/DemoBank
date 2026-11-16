@@ -1,0 +1,326 @@
+[
+  {
+    "accountId": "ACC-1001",
+    "owner": "Alice Johnson",
+    "maskedNumber": "**** **** **** 4821",
+    "balance": 14850.75,
+    "transactions": [
+      {
+        "date": "2026-11-01",
+        "description": "Direct Deposit - Salary",
+        "amount": 4500.0,
+        "balance": 14850.75
+      },
+      {
+        "date": "2026-11-02",
+        "description": "Grocery Store #104",
+        "amount": -124.5,
+        "balance": 14726.25
+      },
+      {
+        "date": "2026-11-03",
+        "description": "Utility Bill - Electric",
+        "amount": -85.2,
+        "balance": 14641.05
+      },
+      {
+        "date": "2026-11-04",
+        "description": "Coffee \u0026 Bakery",
+        "amount": -14.5,
+        "balance": 14626.55
+      },
+      {
+        "date": "2026-11-05",
+        "description": "Online Marketplace",
+        "amount": -65.9,
+        "balance": 14560.65
+      },
+      {
+        "date": "2026-11-06",
+        "description": "ATM Withdrawal",
+        "amount": -100.0,
+        "balance": 14460.65
+      },
+      {
+        "date": "2026-11-07",
+        "description": "Dining Out",
+        "amount": -54.3,
+        "balance": 14406.35
+      },
+      {
+        "date": "2026-11-08",
+        "description": "Mobile Carrier Bill",
+        "amount": -45.0,
+        "balance": 14361.35
+      },
+      {
+        "date": "2026-11-09",
+        "description": "Interest Earned",
+        "amount": 12.5,
+        "balance": 14373.85
+      }
+    ]
+  },
+  {
+    "accountId": "ACC-1002",
+    "owner": "Bob Smith",
+    "maskedNumber": "**** **** **** 9102",
+    "balance": 3420.5,
+    "transactions": [
+      {
+        "date": "2026-11-01",
+        "description": "Direct Deposit - Salary",
+        "amount": 4500.0,
+        "balance": 3420.5
+      },
+      {
+        "date": "2026-11-02",
+        "description": "Grocery Store #104",
+        "amount": -124.5,
+        "balance": 3296.0
+      },
+      {
+        "date": "2026-11-03",
+        "description": "Utility Bill - Electric",
+        "amount": -85.2,
+        "balance": 3210.8
+      },
+      {
+        "date": "2026-11-04",
+        "description": "Coffee \u0026 Bakery",
+        "amount": -14.5,
+        "balance": 3196.3
+      },
+      {
+        "date": "2026-11-05",
+        "description": "Online Marketplace",
+        "amount": -65.9,
+        "balance": 3130.4
+      },
+      {
+        "date": "2026-11-06",
+        "description": "ATM Withdrawal",
+        "amount": -100.0,
+        "balance": 3030.4
+      },
+      {
+        "date": "2026-11-07",
+        "description": "Dining Out",
+        "amount": -54.3,
+        "balance": 2976.1
+      },
+      {
+        "date": "2026-11-08",
+        "description": "Mobile Carrier Bill",
+        "amount": -45.0,
+        "balance": 2931.1
+      },
+      {
+        "date": "2026-11-09",
+        "description": "Interest Earned",
+        "amount": 12.5,
+        "balance": 2943.6
+      }
+    ]
+  },
+  {
+    "accountId": "ACC-1003",
+    "owner": "Charlie Brown",
+    "maskedNumber": "**** **** **** 3341",
+    "balance": 8910.0,
+    "transactions": [
+      {
+        "date": "2026-11-01",
+        "description": "Direct Deposit - Salary",
+        "amount": 4500.0,
+        "balance": 8910.0
+      },
+      {
+        "date": "2026-11-02",
+        "description": "Grocery Store #104",
+        "amount": -124.5,
+        "balance": 8785.5
+      },
+      {
+        "date": "2026-11-03",
+        "description": "Utility Bill - Electric",
+        "amount": -85.2,
+        "balance": 8700.3
+      },
+      {
+        "date": "2026-11-04",
+        "description": "Coffee \u0026 Bakery",
+        "amount": -14.5,
+        "balance": 8685.8
+      },
+      {
+        "date": "2026-11-05",
+        "description": "Online Marketplace",
+        "amount": -65.9,
+        "balance": 8619.9
+      },
+      {
+        "date": "2026-11-06",
+        "description": "ATM Withdrawal",
+        "amount": -100.0,
+        "balance": 8519.9
+      },
+      {
+        "date": "2026-11-07",
+        "description": "Dining Out",
+        "amount": -54.3,
+        "balance": 8465.6
+      },
+      {
+        "date": "2026-11-08",
+        "description": "Mobile Carrier Bill",
+        "amount": -45.0,
+        "balance": 8420.6
+      },
+      {
+        "date": "2026-11-09",
+        "description": "Interest Earned",
+        "amount": 12.5,
+        "balance": 8433.1
+      }
+    ]
+  },
+  {
+    "accountId": "ACC-1004",
+    "owner": "Admin User",
+    "maskedNumber": "**** **** **** 0001",
+    "balance": 1250000.0,
+    "transactions": [
+      {
+        "date": "2026-11-01",
+        "description": "Direct Deposit - Salary",
+        "amount": 4500.0,
+        "balance": 1250000.0
+      },
+      {
+        "date": "2026-11-02",
+        "description": "Grocery Store #104",
+        "amount": -124.5,
+        "balance": 1249875.5
+      },
+      {
+        "date": "2026-11-03",
+        "description": "Utility Bill - Electric",
+        "amount": -85.2,
+        "balance": 1249790.3
+      },
+      {
+        "date": "2026-11-04",
+        "description": "Coffee \u0026 Bakery",
+        "amount": -14.5,
+        "balance": 1249775.8
+      },
+      {
+        "date": "2026-11-05",
+        "description": "Online Marketplace",
+        "amount": -65.9,
+        "balance": 1249709.9
+      },
+      {
+        "date": "2026-11-06",
+        "description": "ATM Withdrawal",
+        "amount": -100.0,
+        "balance": 1249609.9
+      },
+      {
+        "date": "2026-11-07",
+        "description": "Dining Out",
+        "amount": -54.3,
+        "balance": 1249555.6
+      },
+      {
+        "date": "2026-11-08",
+        "description": "Mobile Carrier Bill",
+        "amount": -45.0,
+        "balance": 1249510.6
+      },
+      {
+        "date": "2026-11-09",
+        "description": "Interest Earned",
+        "amount": 12.5,
+        "balance": 1249523.1
+      }
+    ]
+  },
+  {
+    "accountId": "ACC-1005",
+    "owner": "Guest User",
+    "maskedNumber": "**** **** **** 7789",
+    "balance": 500.0,
+    "transactions": [
+      {
+        "date": "2026-11-01",
+        "description": "Direct Deposit - Salary",
+        "amount": 4500.0,
+        "balance": 500.0
+      },
+      {
+        "date": "2026-11-02",
+        "description": "Grocery Store #104",
+        "amount": -124.5,
+        "balance": 375.5
+      },
+      {
+        "date": "2026-11-03",
+        "description": "Utility Bill - Electric",
+        "amount": -85.2,
+        "balance": 290.3
+      },
+      {
+        "date": "2026-11-04",
+        "description": "Coffee \u0026 Bakery",
+        "amount": -14.5,
+        "balance": 275.8
+      },
+      {
+        "date": "2026-11-05",
+        "description": "Online Marketplace",
+        "amount": -65.9,
+        "balance": 209.89999999999998
+      },
+      {
+        "date": "2026-11-06",
+        "description": "ATM Withdrawal",
+        "amount": -100.0,
+        "balance": 109.89999999999998
+      },
+      {
+        "date": "2026-11-07",
+        "description": "Dining Out",
+        "amount": -54.3,
+        "balance": 55.60000000000002
+      },
+      {
+        "date": "2026-11-08",
+        "description": "Mobile Carrier Bill",
+        "amount": -45.0,
+        "balance": 10.600000000000023
+      },
+      {
+        "date": "2026-11-09",
+        "description": "Interest Earned",
+        "amount": 12.5,
+        "balance": 23.100000000000023
+      }
+    ]
+  },
+  {
+    "accountId": "ACC-1006",
+    "owner": "Adarsh Subudhi",
+    "maskedNumber": "**** **** **** 1313",
+    "balance": 50000.00,
+    "transactions": [
+      {
+        "date": "2026-11-01",
+        "description": "Initial Vault Deposit",
+        "amount": 50000.0,
+        "balance": 50000.00
+      }
+    ]
+  }
+]
